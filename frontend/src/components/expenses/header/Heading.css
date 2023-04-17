@@ -1,0 +1,9 @@
+.heading-div{
+    text-align: center;
+    font-size: 25px;
+  font-weight: 700;
+  background-image: linear-gradient(to left, #dad8e0, #a892ee);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
